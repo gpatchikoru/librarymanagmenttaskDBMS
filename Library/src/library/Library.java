@@ -6,7 +6,7 @@ package library;
 
 /**
  *
- * @author girishkumarpatchikoru
+ * @author girishkumar
  */
 
 import java.util.InputMismatchException;
